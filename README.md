@@ -30,7 +30,7 @@
 <h2>🧰 Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
