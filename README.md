@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Weerapong 👋</h1>
+<h1 align="center">Hi there, I'm PARK 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student" alt="Typing SVG" />
