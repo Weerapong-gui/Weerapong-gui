@@ -35,26 +35,6 @@
 
 ---
 
-<h2>📌 Current Focus</h2>
-
-<table>
-  <tr>
-    <td>🔭 Working on</td>
-    <td>Java practice projects and GitHub portfolio</td>
-  </tr>
-  <tr>
-    <td>🌱 Learning</td>
-    <td>Java OOP, Data Structures, Git, HTML/CSS</td>
-  </tr>
-  <tr>
-    <td>🤝 Looking to collaborate on</td>
-    <td>Student projects, beginner-friendly coding projects</td>
-  </tr>
-  <tr>
-    <td>💬 Ask me about</td>
-    <td>Java basics, GitHub setup, beginner coding journey</td>
-  </tr>
-</table>
 
 ---
 
@@ -62,7 +42,7 @@
 
 ---
 
-<h2>✨ Fun Quote</h2>
+<h2>if you can't explain it simply you don't understand it well enough</h2>
 
 <p><i>"Keep learning, keep building, keep growing."</i></p>
 
