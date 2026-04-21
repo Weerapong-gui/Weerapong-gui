@@ -15,8 +15,6 @@
 
 <h2>if you can't explain it simply you don't understand it well enough</h2>
 
-<p><i>"Keep learning, keep building, keep growing."</i></p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
 </p>
