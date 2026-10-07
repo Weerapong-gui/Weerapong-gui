@@ -21,4 +21,5 @@ I build and maintain real-world systems for the MFU Student Union.
 
 </td>
 </tr>
-</table>ong-gui) · [Email](mailto:6831501178@lamduan.mfu.ac.th)
+</table>
+
