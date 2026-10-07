@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="55%" valign="top">
 
 # Hi, I'm Park 👋
 
@@ -15,11 +15,10 @@ I build and maintain real-world systems for the MFU Student Union.
 
 </td>
 
-<td width="30%" align="center">
+<td width="45%" align="center">
 
-<img src="./assets/coffee.svg" width="180" alt="Coffee Cup"/>
+<img src="./assets/terminal.svg" width="420" alt="Terminal Animation"/>
 
 </td>
 </tr>
 </table>
-
