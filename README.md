@@ -17,7 +17,7 @@ I build and maintain real-world systems for the MFU Student Union.
 
 <td width="45%" align="center">
 
-<img src="./assets/terminal-v2.svg" width="420" alt="Terminal Animation"/>
+<img src="./assets/terminal.svg" width="420" alt="Terminal Animation"/>
 
 </td>
 </tr>
